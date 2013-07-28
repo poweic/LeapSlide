@@ -24,12 +24,12 @@ How To Use ?
    <script src="http://js.leapmotion.com/0.2.0-beta6/leap.min.js"></script>
 ```
 
-2. Add Leap Slide to your html files (ex: index.html)
+Add Leap Slide to your html files (ex: index.html)
 
 ```html
    <script src='leap-slide/leap-slide.min.js'></script>
    <link rel='stylesheet' href='leap-slide/leap-slide.min.css'> 
 ```
 
-3. Connect your Leap Motion to your computer via USB cable.
-4. Have fun!!
+Connect your Leap Motion to your computer via USB cable.
+Have fun!!
