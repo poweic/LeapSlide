@@ -18,9 +18,11 @@ How To Use ?
 
 1. Add JS packages
 ```JavaScript
+
    <script src="http://html5slides.googlecode.com/svn/trunk/slides.js"></script>
    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
    <script src="http://js.leapmotion.com/0.2.0-beta6/leap.min.js"></script>
+   
 ```
 2. Add Leap Slide to your html files (ex: index.html)
 ```
