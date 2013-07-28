@@ -13,6 +13,11 @@ Dependencies
    (Link: http://js.leapmotion.com/)
    
    
+Demo !!
+=======
+
+http://rawgithub.com/botonchou/LeapSlide/master/demo.html
+
 How To Use ?
 ============
 
