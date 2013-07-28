@@ -18,7 +18,7 @@ How To Use ?
 
 1. Add JS packages
 
-   <script src='http://html5slides.googlecode.com/svn/trunk/slides.js'></script>
+   &lt;script src='http://html5slides.googlecode.com/svn/trunk/slides.js'></script>
    <script src='http://code.jquery.com/jquery-1.10.2.min.js'></script>
    <script src="http://js.leapmotion.com/0.2.0-beta6/leap.min.js"></script>
    
