@@ -1,0 +1,46 @@
+div.arrow {
+	display: none;
+	overflow-x: auto;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	margin-top: -80px;
+	z-index: 999;
+}
+
+div.arrow.arrow-left {
+	right: 0;
+	-webkit-transform: translateX(+90px);
+}
+
+div.arrow.arrow-right {
+	left: 1%;
+	-webkit-transform: rotateY(180deg);
+}
+
+div.arrow > div.arrow-triangle {
+	border-color: transparent rgba(118, 172, 241, 0.4) transparent transparent;
+	border-style: solid;
+	border-width: 80px;
+	width: 0;
+	height: 0;
+	float: left;
+}
+
+div.arrow > div.arrow-rectangle {
+	margin-top: 40px;
+	background-color: rgba(118, 172, 241, 0.4);
+	width: 150px;
+	height: 80px;
+	display: inline;
+	float: left;
+}
+
+div.arrow > div.arrow-trailing {
+	margin-top: 40px;
+	margin-left: 10px;
+	height: 80px;
+	width: 10px;
+	background-color: rgba(118, 172, 241, 0.4);
+	float: left;
+}
