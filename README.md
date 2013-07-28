@@ -18,14 +18,14 @@ How To Use ?
 
 1. Add JS packages
 
-   &lt;script src='http://html5slides.googlecode.com/svn/trunk/slides.js'></script>
-   <script src='http://code.jquery.com/jquery-1.10.2.min.js'></script>
-   <script src="http://js.leapmotion.com/0.2.0-beta6/leap.min.js"></script>
+   &lt;script src='http://html5slides.googlecode.com/svn/trunk/slides.js'&gt;&lt;/script&gt;
+   &lt;script src='http://code.jquery.com/jquery-1.10.2.min.js'&gt;&lt;/script&gt;
+   &lt;script src="http://js.leapmotion.com/0.2.0-beta6/leap.min.js"&gt;&lt;/script&gt;
    
 2. Add Leap Slide to your html files (ex: index.html)
 
-   <script src='leap-slide/leap-slide.min.js'></script>
-   <link rel='stylesheet' href='leap-slide/leap-slide.min.css'>
+   &lt;script src='leap-slide/leap-slide.min.js'&gt;&lt;/script&gt;
+   &lt;link rel='stylesheet' href='leap-slide/leap-slide.min.css'&gt;
 
 3. Connect your Leap Motion to your computer via USB cable.
 4. Have fun!!
